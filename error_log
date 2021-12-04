@@ -1,0 +1,52 @@
+[21-Aug-2020 09:18:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[21-Aug-2020 11:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[27-Aug-2020 04:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[27-Aug-2020 04:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[27-Aug-2020 04:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  Use of undefined constant srmklive - assumed 'srmklive' (this will throw an Error in a future version of PHP) in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  Use of undefined constant paypal - assumed 'paypal' (this will throw an Error in a future version of PHP) in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  A non-numeric value encountered in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  A non-numeric value encountered in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  Division by zero in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  Use of undefined constant Providers - assumed 'Providers' (this will throw an Error in a future version of PHP) in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  A non-numeric value encountered in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  Division by zero in /home/immo1page/public_html/config/app.php on line 162
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  A non-numeric value encountered in /home/immo1page/public_html/config/app.php on line 16
+[27-Aug-2020 05:56:04 UTC] PHP Warning:  Division by zero in /home/immo1page/public_html/config/app.php on line 16
+[27-Aug-2020 05:57:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Polyfill\Mbstring\iconv() in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php:671
+Stack trace:
+#0 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/bootstrap.php(48): Symfony\Polyfill\Mbstring\Mbstring::mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#1 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/Helper.php(54): mb_strwidth('  [Composer\\Dow...', 'ASCII')
+#2 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(646): Symfony\Component\Console\Helper\Helper::strlen('  [Composer\\Dow...')
+#3 phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Application.php(127): Symfony\Component\Console\Application->renderException(Object(Composer\Downloader\TransportException), Object(Symfony\Component\Console\Output\StreamOutput))
+#4 phar:///opt/cpanel/composer/bin/composer/src/Composer/Console/Application.php(104): Symfony\Component\Console\Applicatio in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/polyfill-mbstring/Mbstring.php on line 671

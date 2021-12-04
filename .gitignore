@@ -1,0 +1,5 @@
+.svn
+.git
+vendor
+public
+.env
